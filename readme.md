@@ -1,4 +1,4 @@
-# D2Web MPQ Reader / Extractor
+# Node MPQ Reader / Extractor
 
 A tiny, dependency‑light Node.js library that lets you **open, list and extract files** from Blizzard‐style MPQ archives (as used by Diablo II and other classic titles).
 
