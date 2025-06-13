@@ -49,7 +49,7 @@ If you want to consume this as a package, treat ``as the public entry point (or 
 ```bash
 # 1. install (local dev checkout)
 $ git clone https://github.com/XPZ2k15/nodempq.git && cd D2WEB
-$ npm install
+$ npm i @clearvisiongg/nodempq
 
 # 2. run the demo (edit the path to your .mpq)
 $ node example "C:/Program Files (x86)/Diablo II/d2data.mpq"
