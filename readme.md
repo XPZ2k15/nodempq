@@ -58,7 +58,7 @@ $ node example "C:/Program Files (x86)/Diablo II/d2data.mpq"
 ### Programmatic usage
 
 ```js
-import { MPQ } from './mpq/mpq.js'; // or:  import { MPQ } from "d2web";
+import { MPQ } from './mpq/mpq.js'; // or:  import { MPQ } from "@clearvisiongg/nodempq";
 
 const mpq = await MPQ.FromFile('d2data.mpq');
 
